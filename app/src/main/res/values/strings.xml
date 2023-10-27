@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyBookingCareApp</string>
+    <string name="loading">Loading</string>
+    <string name="registered_user_since">Registered user since</string>
+    <string name="mobile">Mobile</string>
+    <string name="gender">Gender</string>
+    <string name="dob">Dob</string>
+    <string name="email">Email</string>
+    <string name="user_display_picture">User display picture</string>
+    <string name="name">Name</string>
 </resources>
