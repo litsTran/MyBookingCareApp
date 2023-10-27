@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161401284235",
+    "project_id": "mybookingcareapp",
+    "storage_bucket": "mybookingcareapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161401284235:android:f6b8ac504d6552b4ec168e",
+        "android_client_info": {
+          "package_name": "com.example.mybookingcareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAViQSamarWjJyIx8WFH__sCqe37gu_ebE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
